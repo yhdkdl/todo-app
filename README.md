@@ -12,7 +12,6 @@ A full-stack todo application with a Django REST API backend and a Flutter mobil
 
 ## Project Structure
 
-```
 todo-app/
 ├── todo_backend/          # Django REST API backend
 │   ├── apps/
@@ -32,7 +31,7 @@ todo-app/
 │   ├── pubspec.yaml       # Flutter dependencies
 │   └── README.md          # Mobile app specific README
 └── README.md              # This file
-```
+
 
 ## Backend Setup (Django)
 
